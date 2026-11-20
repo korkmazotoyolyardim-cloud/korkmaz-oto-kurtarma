@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /veri/
+
+Sitemap: https://www.kurtaricibodrum.com/sitemap.xml
